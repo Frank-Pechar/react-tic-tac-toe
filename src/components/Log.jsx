@@ -1,4 +1,5 @@
 export default function Log({ turns }) {
+  // Create rendering li elements for turn(s) log entries
   return (
     <ol id="log">
       {turns.map((turn) => (

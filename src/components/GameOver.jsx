@@ -1,4 +1,5 @@
 export default function GameOver({ winner, onRestart }) {
+  // Create rendering elements for Game Over (either by a winner or a draw)
   return (
     <div id="game-over">
       <h2>Game Over!</h2>

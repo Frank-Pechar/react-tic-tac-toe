@@ -1,3 +1,4 @@
+// Use working gameBoard array to create updated game board UI elements
 export default function GameBoard({ onSelectSquare, board }) {
   return (
     <ol id="game-board">
