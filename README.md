@@ -14,11 +14,6 @@ This App is a Tic-Tac-Toe Game
 
 ## App Functionality
 
-Calculate and list investment return values for a given number of years
-
-- Enter Current Savings, Yearly Savings, Expected Interest, and Investment Duration (Years)
-- Click &lt;Calculate&gt; Button
-
 Change Player Name
           
 - Click &lt;Edit&gt; Button Next to Player Name
