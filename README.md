@@ -30,11 +30,13 @@ Start a New Game
 
 ## React Features and Methods Used
 
-- Passing props data
-- CSS Modules
-- Implemented useState hook for updating input data object
-- Two way binding of input fields
+- Implemented useState hook
 - Lifting State Up to parent component
 - Use of state update function parameter within Set State Function to ensure most current state
-- Added table row Keys for unique id
-- Basic event handling
+- Passing props data
+- Two way binding of input fields
+- Deriving and Lifting Computed Values 
+- Added Keys for unique id
+- Minimum State Management
+- Multi-Dimensional arrays and lists
+- Dynamic styling 
