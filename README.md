@@ -10,7 +10,7 @@ App can be run from: https://frank-pechar-react-tic-tac-toe.netlify.app/
 
 ## App Description
 
-This App will calculate and report annual investment returns based on initial investment, annual contribution, expected interest rate, and duration of years
+This App is a Tic-Tac-Toe Game
 
 ## App Functionality
 
@@ -18,6 +18,20 @@ Calculate and list investment return values for a given number of years
 
 - Enter Current Savings, Yearly Savings, Expected Interest, and Investment Duration (Years)
 - Click &lt;Calculate&gt; Button
+
+Change Player Name
+          
+- Click &lt;Edit&gt; Button Next to Player Name
+- Enter: Name
+- Click &lt; Save&gt; Button
+
+Enter a Turn Selection
+
+- Click a Blank Box Inside Game Box
+
+Start a New Game
+
+- Click &lt;Rematch&gt; Button
 
 ## React Features and Methods Used
 
