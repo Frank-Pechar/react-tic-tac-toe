@@ -6,7 +6,7 @@
 
 React project I completed from Udemy: React - The Complete Guide 2023 (incl. React Router & Redux) by Maximilian Schwarzmuller. After coding this project. I added comments for educational purposes.
 
-App can be run from: https://frank-pechar-react-invest-calculator.netlify.app/
+App can be run from: https://frank-pechar-react-tic-tac-toe.netlify.app/
 
 ## App Description
 
